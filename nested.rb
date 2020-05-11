@@ -36,7 +36,6 @@ def alan_kay_is_known_for
         :languages => ["C"]
       }
     }
-    :grace_hopper
 end
 
 def dennis_ritchies_language
